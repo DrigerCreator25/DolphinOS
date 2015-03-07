@@ -11,7 +11,9 @@ in winter 2016
 
 #Interfaces
 DolphinOS will be have some interfaces for any device, because that is the big point of the OS:
-- Desktop and All in One
+- Desktop and All in One (Linux)
+- Windows Theme
+- OS X Theme
 - 2 in 1 (Tablet/Laptop)
 - Only Tablet
 - Digital and Touchable Whiteboards (For Workspaces or Schools)
